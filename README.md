@@ -14,7 +14,7 @@ I currently have three major projects. The first is a private game engine which 
 ## My Language Stats
 Obiously an algorithm can't accurately measure language usage, but my most used languages are far and away C and C++. The webdev tools and HTML and CSS are used for my website, which is served using [Nginx](https://github.com/nginx/nginx). I'm also in the process of learning Haskell for the game engine. 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawiggles&size_weight=1&count_weight=0&hide=makefile,cmake&hide_title=true&exclude_repo=kawiggles-dotfiles)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawiggles&size_weight=0.5&count_weight=0.5&hide=makefile,cmake&hide_title=true&exclude_repo=kawiggles-dotfiles)
 
 ## Development Environment
 + **Operating Systems:** Arch Linux, Ubuntu Server, Unraid, Void Linux
